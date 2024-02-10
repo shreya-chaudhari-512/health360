@@ -1,0 +1,547 @@
+.frame-child4 {
+  height: 100px;
+  width: 1440px;
+  position: relative;
+  background-color: var(--white);
+  box-shadow: 0 4px 32px rgba(0, 0, 0, 0.1);
+  display: none;
+  max-width: 100%;
+}
+
+.span10 {
+  color: var(--color-black);
+}
+
+.span11 {
+  color: var(--color-slategray-100);
+}
+
+.health-3604 {
+  height: 40px;
+  position: absolute;
+  margin: 0 !important;
+  top: -3px;
+  left: -26px;
+  display: inline-block;
+  white-space: nowrap;
+  z-index: 1;
+}
+
+.navbar-item {
+  height: 40px;
+  width: 177px;
+}
+
+.healthcare2 {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 20px;
+  font-weight: 600;
+  color: var(--color-slategray-100);
+}
+
+.medicines-other2 {
+  white-space: nowrap;
+}
+
+.about-us4,
+.medicines-other2,
+.services4 {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 20px;
+}
+
+.about-us4 {
+  white-space: nowrap;
+}
+
+.healthcare-group {
+  width: 524px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-21xl);
+  max-width: 100%;
+}
+
+.call2 {
+  font-family: var(--font-poppins);
+}
+
+.or2,
+.span12 {
+  color: var(--white);
+}
+
+.call-1800-425-container2,
+.consult-online2 {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.consult-online2 {
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--white);
+  text-align: left;
+}
+
+.call-1800-425-3800-or-group,
+.consult-online-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.consult-online-frame {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-xs) var(--padding-xl);
+  background-color: var(--color-midnightblue);
+  border-radius: var(--br-81xl);
+  white-space: nowrap;
+}
+
+.consult-online-frame:hover,
+.submit-button:hover {
+  background-color: var(--color-darkslateblue);
+}
+
+.call-1800-425-3800-or-group {
+  gap: var(--gap-xl);
+  max-width: 100%;
+  color: var(--color-midnightblue);
+}
+
+.navbar2 {
+  flex: 1;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  z-index: 2;
+  font-size: var(--font-size-sm);
+  color: var(--black);
+}
+
+.frame-header,
+.health-360-group,
+.navbar2 {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+
+.health-360-group {
+  width: 1240px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+
+.frame-header {
+  align-self: stretch;
+  background-color: var(--white);
+  box-shadow: 0 4px 32px rgba(0, 0, 0, 0.1);
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xl);
+  box-sizing: border-box;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-midnightblue);
+  font-family: var(--font-poppins);
+}
+
+.frame-child5,
+.frame-child6 {
+  position: relative;
+  display: none;
+}
+
+.frame-child5 {
+  align-self: stretch;
+  background-color: var(--color-slategray-200);
+  height: 1860px;
+}
+
+.frame-child6 {
+  width: 1224px;
+  background-color: var(--white);
+  height: 1322px;
+  max-width: 100%;
+}
+
+.span13 {
+  color: var(--color-black);
+}
+
+.prediction {
+  color: var(--color-slategray-100);
+}
+
+.heart-disease-prediction-container {
+  height: 48px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 2;
+}
+
+.age-in-years,
+.ca,
+.chol,
+.cp,
+.exang,
+.fbs,
+.old-peak,
+.restcg,
+.sex,
+.slope,
+.thal,
+.thlach,
+.trestbps {
+  height: 36px;
+  position: relative;
+  display: inline-block;
+  z-index: 2;
+}
+
+.age-in-years-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+}
+
+.rectangle-set,
+.rectangle-set1,
+.rectangle-set10,
+.rectangle-set11,
+.rectangle-set12,
+.rectangle-set2,
+.rectangle-set3,
+.rectangle-set4,
+.rectangle-set5,
+.rectangle-set6,
+.rectangle-set7,
+.rectangle-set8,
+.rectangle-set9 {
+  align-self: stretch;
+  height: 31px;
+  position: relative;
+  background-color: var(--color-gainsboro-200);
+}
+
+.frame-parent1,
+.rectangle-set-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.rectangle-set-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 55px;
+  max-width: calc(100% - 172px);
+  z-index: 2;
+}
+
+.frame-parent1 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 13px;
+  max-width: 100%;
+}
+
+.submit {
+  height: 29px;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--white);
+  text-align: left;
+  display: inline-block;
+}
+
+.submit-button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs);
+  background-color: var(--color-midnightblue);
+  border-radius: var(--br-81xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+}
+
+.frame-group,
+.reference-frame {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.reference-frame {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-3xl);
+}
+
+.frame-group {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--gap-13xl);
+  max-width: 100%;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}
+
+.frame-section,
+.heart-rate-frame-child {
+  background-color: var(--white);
+  max-width: 100%;
+}
+
+.frame-section {
+  width: 1224px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-21xl) 66px var(--padding-16xl) var(--padding-26xl);
+  box-sizing: border-box;
+  gap: var(--gap-31xl);
+  z-index: 1;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-midnightblue);
+  font-family: var(--font-poppins);
+}
+
+.heart-rate-frame-child {
+  height: 347px;
+  width: 1440px;
+  position: relative;
+  display: none;
+}
+
+.span14 {
+  color: var(--color-black);
+}
+
+.reference {
+  color: var(--color-slategray-100);
+}
+
+.for-reference {
+  height: 48px;
+  position: relative;
+  display: inline-block;
+  z-index: 2;
+}
+
+.age-age,
+.chol-serum,
+.cp-chest,
+.fbs-fasting,
+.in-mm-hg,
+.restecg-resting,
+.sex-1,
+.trestbps-resting {
+  margin: 0;
+}
+
+.age-age-container {
+  height: 243px;
+  position: relative;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  color: var(--color-black);
+  white-space: pre-wrap;
+  z-index: 2;
+}
+
+.for-reference-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 28px;
+  min-width: 525px;
+  max-width: 100%;
+}
+
+.ca-number,
+.exang-exercise,
+.oldpeak-st,
+.slope-the,
+.target-have,
+.thal-3,
+.thalach-maximum {
+  margin: 0;
+}
+
+.thalach-maximum-container {
+  position: relative;
+  z-index: 2;
+}
+
+.children-info-frame,
+.heart-rate-frame {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.children-info-frame {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xl) 0 0;
+  min-width: 549px;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+}
+
+.heart-rate-frame {
+  align-self: stretch;
+  background-color: var(--white);
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-9xl) 108px 0;
+  gap: var(--gap-xl);
+  z-index: 1;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-midnightblue);
+  font-family: var(--font-poppins);
+}
+
+.frame-main,
+.model {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.frame-main {
+  align-self: stretch;
+  background-color: var(--color-slategray-200);
+  align-items: center;
+  padding: var(--padding-56xl) 0 0;
+  box-sizing: border-box;
+  gap: 116px;
+  max-width: 100%;
+}
+
+.model {
+  width: 100%;
+  position: relative;
+  background-color: var(--white);
+  overflow: hidden;
+  align-items: flex-start;
+  letter-spacing: normal;
+}
+
+@media screen and (min-width: 1024px) {
+  .frame-section {
+    padding: var(--padding-21xl) 66px var(--padding-16xl) var(--padding-26xl);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    justify-content: space-between;
+  }
+  .frame-parent1,
+  .rectangle-set-parent,
+  .for-reference-frame {
+    flex-basis: calc(33.33% - 25px);
+  }
+}
+@media screen and (max-width: 1050px) {
+  .frame-section {
+    padding: 26px 33px var(--padding-4xl) var(--padding-3xl);
+    box-sizing: border-box;
+    width: calc(100% - 40px);
+  }
+  .children-info-frame,
+  .for-reference-frame {
+    flex: 1;
+  }
+  .heart-rate-frame {
+    flex-wrap: wrap;
+  }
+  .frame-main {
+    padding-top: 49px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .medicines-other2 {
+    display: none;
+  }
+  .healthcare-group {
+    width: 327px;
+    gap: var(--gap-xl);
+  }
+  .heart-disease-prediction-container {
+    font-size: var(--font-size-7xl);
+  }
+  .age-in-years-parent {
+    display: none;
+  }
+  .rectangle-set-parent {
+    gap: 27px;
+    max-width: 100%;
+  }
+  .frame-group {
+    gap: var(--gap-base);
+  }
+  .frame-section {
+    gap: 25px;
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .for-reference {
+    font-size: var(--font-size-7xl);
+  }
+  .for-reference-frame {
+    min-width: 100%;
+  }
+  .heart-rate-frame {
+    padding-left: var(--padding-35xl);
+    padding-right: var(--padding-35xl);
+    box-sizing: border-box;
+  }
+  .frame-main {
+    gap: 58px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .healthcare-group {
+    display: none;
+  }
+  .children-info-frame {
+    min-width: 100%;
+  }
+  .frame-main {
+    padding-top: 32px;
+    box-sizing: border-box;
+  }
+}
+
